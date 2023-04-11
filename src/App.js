@@ -1,9 +1,10 @@
 import './App.css';
+import Cart from './components/Cart';
 
 function App() {
   return (
     <div className="App">
-      Hello World!
+      <Cart />
     </div>
   );
 }
